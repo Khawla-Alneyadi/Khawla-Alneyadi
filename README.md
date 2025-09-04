@@ -18,7 +18,7 @@ I am a Computer Science and Software Engineering student at UAEU with a strong a
 - 📚 Smart Book Research – Compared AI avatars, chatbots, and learning methods.  
 
 
-📫 **Contact Me**  
+## 📫 Contact Me
 - ✉️ Email: [Khawla.k1113@outlook.com](mailto:Khawla.k1113@outlook.com)  
 - 🔗 LinkedIn: [linkedin.com/in/khawla-alneyadi](https://www.linkedin.com/in/khawla-alneyadi)  
 - 🌐 Portfolio: [khawlak1113.wixsite.com/khawla-alneyadi-port](https://khawlak1113.wixsite.com/khawla-alneyadi-port)  
