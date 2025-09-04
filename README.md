@@ -9,13 +9,28 @@ I am a Computer Science and Software Engineering student at UAEU with a strong a
 - **Other**: AutoCAD, Excel, GitHub  
 - **Strengths**: Research, Analysis, Problem Solving, Leadership  
 
-## 📂 Featured Projects
-- 🎮 2D Maze Game Interactive puzzle game with procedural maze generation.  
-- 🖐️ Sign Language Recognition – ML project for human-computer interaction.  
-- 🤖 Pepper Robot Emotion Recognition – AI system to detect human emotions.  
-- 🌐 Internship Portal – Full-stack Java, SQL, and HTML project.  
-- 📊 Bureaucracy Research – Web-based ML tool using Hugging Face & Gemini.  
-- 📚 Smart Book Research – Compared AI avatars, chatbots, and learning methods.  
+## 📂 Projects
+
+### 📝 Research & Early Projects
+- 📚 **Smart Book Research** – Published IEEE paper on AI avatars vs. chatbots in learning.
+- 🏛️ **Bureaucracy Tool** – Web-based ML project analyzing bureaucracy levels (Gemini + Hugging Face).
+- 📊 **Data Mining with Weka** – Explored clustering/classification (learning project).
+
+### 🎮 Applications & Coursework
+- 🎮 **2D Maze Puzzle Game** – Python/Tkinter game with procedural maze generation.
+- 🌐 **Internship Portal** – Full-stack (Java, SQL, HTML) internship management system.
+
+### 🤖 Machine Learning & AI
+- ✋ **Sign Language Recognition** – ML-based gesture-to-text system.
+- 🤖 **Pepper Robot Emotion Detection** – In-progress AI for humanoid robot emotion recognition.
+
+### 🚀 Upcoming / Planned
+- 💬 **NLP Project** (planned).
+- 🧬 **Bioinformatics Project** (planned).
+- 🛠️ **Software Engineering Project** (planned).
+- 🎓 **Senior Project 1 & 2** (capstone).
+- 🔧 **Pepper Robot Extensions** (future improvements).
+- 📡 **Advising AI** (potential research project). 
 
 
 ## 📫 Contact Me
