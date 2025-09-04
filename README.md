@@ -12,25 +12,25 @@
 ## 📂 Projects
 
 ### 📝 Research & Early Projects
-- 📚 **Smart Book Research** – Published IEEE paper on AI avatars vs. chatbots in learning.
-- 🏛️ **Bureaucracy Tool** – Web-based ML project analyzing bureaucracy levels (Gemini + Hugging Face).
-- 📊 **Data Mining with Weka** – Explored clustering/classification (learning project).
+- **Smart Book Research** – Published IEEE paper on AI avatars vs. chatbots in learning.
+- **Bureaucracy Tool** – Web-based ML project analyzing bureaucracy levels (Gemini + Hugging Face).
+- **Data Mining with Weka** – Explored clustering/classification (learning project).
 
 ### 🎮 Applications & Coursework
-- 🎮 **2D Maze Puzzle Game** – Python/Tkinter game with procedural maze generation.
-- 🌐 **Internship Portal** – Full-stack (Java, SQL, HTML) internship management system.
+- **2D Maze Puzzle Game** – Python/Tkinter game with procedural maze generation.
+- **Internship Portal** – Full-stack (Java, SQL, HTML) internship management system.
 
 ### 🤖 Machine Learning & AI
-- ✋ **Sign Language Recognition** – ML-based gesture-to-text system.
-- 🤖 **Pepper Robot Emotion Detection** – In-progress AI for humanoid robot emotion recognition.
+- **Sign Language Recognition** – ML-based gesture-to-text system.
+- **Pepper Robot Emotion Detection** – In-progress AI for humanoid robot emotion recognition.
 
 ### 🚀 Upcoming / Planned
-- 💬 **NLP Project** (planned).
-- 🧬 **Bioinformatics Project** (planned).
-- 🛠️ **Software Engineering Project** (planned).
-- 🎓 **Senior Project 1 & 2** (capstone).
-- 🔧 **Pepper Robot Extensions** (future improvements).
-- 📡 **Advising AI** (potential research project). 
+- **NLP Project** (planned).
+- **Bioinformatics Project** (planned).
+- **Software Engineering Project** (planned).
+- **Senior Project 1 & 2** (capstone).
+- **Pepper Robot Extensions** (future improvements).
+- **Advising AI** (potential research project). 
 
 
 ## 📫 Contact Me
