@@ -5,7 +5,7 @@
 ## 🛠️ Technical Skills
 - **Languages**: Python, Java, SQL, HTML, XML  
 - **AI / Data Tools**: NumPy, Pandas, Weka, Hugging Face, Google Gemini, MATLAB  
-- **Development Tools**: Visual Studio Code, PyCharm, NetBeans, Packet Tracer  
+- **Development Tools**: Visual Studio Code, PyCharm, NetBeans 
 - **Other**: AutoCAD, Excel, GitHub  
 - **Strengths**: Research, Analysis, Problem Solving, Leadership  
 
